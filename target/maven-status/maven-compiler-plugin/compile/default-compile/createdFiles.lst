@@ -1,0 +1,5 @@
+io\maddennis\actions\LoginPageActions.class
+io\maddennis\locators\HomePageLocators.class
+io\maddennis\locators\LoginPageLocators.class
+io\maddennis\actions\HomePageActions.class
+io\maddennis\utils\HelperClass.class
